@@ -1,4 +1,4 @@
-# ASMConverter
+# ASMSimulator
 CSC 220 Final Project
 
 Authors: Sam Montanaro, Joseph Fasulo
